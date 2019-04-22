@@ -1,0 +1,14 @@
+/*
+.button {
+    -fx-background-color: blue;
+}
+*/
+
+#btn-save {
+    -fx-background-color: #1E88E5;
+    -fx-text-fill: white;
+}
+
+#btn-save:hover {
+    -fx-background-color: #7CB342;
+}
